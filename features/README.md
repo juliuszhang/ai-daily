@@ -6,6 +6,7 @@
 
 | 日期 | 文章 | 来源 |
 |---|---|---|
+| 2026-07-25 | [智能体运行框架工程、循环工程与图式工程](./2026-07-25-agent-harness-loop-graph-engineering-zh.md) | beamnxw / X Article |
 | 2026-07-16 | [Anthropic 如何使用 Claude Code 进行大规模代码迁移](./2026-07-16-anthropic-ai-code-migration-zh.md) | Anthropic / Claude Blog |
 
 > 翻译文章会保留原文链接，并明确标注为非官方中文翻译。
